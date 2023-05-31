@@ -19,8 +19,7 @@
 
 ### 👨‍💻: About Me:
 
-I am a Front-end developer & Full-Stack developer with a focuses on functional user experiences.
-
+- 👨‍💻 a frontend / full-stack developer with 3 years of experience
 - 🗾: Originally from Japan, but ready to move anywhere 🛬
 - :seedling: Currently, I am leading a five of team members crafting new functions on UI and implement complicated APIs.
 - :writing_hand: I write a blog on [Qiita](https://qiita.com/yutoun) and [Dev Whisperer](https://devwhisperer.gatsbyjs.io/)
