@@ -12,6 +12,9 @@
     <a href="https://devwhisperer.gatsbyjs.io/">
         <img src="https://img.shields.io/badge/Blog-4B3263?style=for-the-badge"
     </a>
+    <a href="https://twitter.com/Robin_Ich_y">
+        <img src="https://img.shields.io/badge/Twitter-2962FF?style=for-the-badge&logo=twitter&logoColor=white" alt="Hashnode Badge"/>
+    </a>
 </div>
 
 ### 👨‍💻: About Me:
