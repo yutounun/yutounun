@@ -10,7 +10,7 @@
         <img src="https://img.shields.io/badge/www.robin.com-55A4A7?style=for-the-badge"
     </a>
     <a href="https://devwhisperer.gatsbyjs.io/">
-        <img src="https://img.shields.io/badge/Blog-55A4A7?style=for-the-badge"
+        <img src="https://img.shields.io/badge/Blog-4B3263?style=for-the-badge"
     </a>
 </div>
 
