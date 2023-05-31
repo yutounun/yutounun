@@ -72,10 +72,20 @@ I am a Front-end developer & Full-Stack developer with a focuses on functional u
 ![FireBase](https://img.shields.io/badge/Firebase-6DA55F?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ### Databases: 
-
+![DynamoDB](https://img.shields.io/badge/dynamodb-blue.svg?style=for-the-badge&l&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### :art: Design:
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+### 💐 Certifications:
+#### 🥑AWS
+![SolutionArchitect](https://img.shields.io/badge/SolutionArchitect-%23F05033.svg?style=for-the-badge&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-FF6C37?style=for-the-badge&logo=sap&logoColor=white)
+![CloudPractitionar](https://img.shields.io/badge/CloudPractitionar-3982CE?style=for-the-badge&logoColor=white)
+
+#### 🎃Google
+![ProfessionalCloudArchitect](https://img.shields.io/badge/ProfessionalCloudArchitect-%23323330.svg?style=for-the-badge&&logoColor=%23F7DF1E)
+![DegitalLeader](https://img.shields.io/badge/DegitalLeader-%23007ACC.svg?style=for-the-badge&logoColor=white)
