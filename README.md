@@ -71,7 +71,7 @@ I am a Front-end developer & Full-Stack developer with a focuses on functional u
 ![storybook](https://img.shields.io/badge/storybook-6DA55F.svg?style=for-the-badge&logo=storybook&logoColor=%234FC08D)
 ![FireBase](https://img.shields.io/badge/Firebase-6DA55F?style=for-the-badge&logo=Firebase&logoColor=white)
 
-### Databases: 
+### 🗃️ Databases: 
 ![DynamoDB](https://img.shields.io/badge/dynamodb-blue.svg?style=for-the-badge&l&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
