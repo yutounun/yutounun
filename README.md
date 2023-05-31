@@ -68,6 +68,7 @@ I am a Front-end developer & Full-Stack developer with a focuses on functional u
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-4B3263.svg?style=for-the-badge&logo=vite&logoColor=%234FC08D)
+![storybook](https://img.shields.io/badge/storybook-6DA55F.svg?style=for-the-badge&logo=storybook&logoColor=%234FC08D)
 ![FireBase](https://img.shields.io/badge/Firebase-6DA55F?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ### Databases: 
