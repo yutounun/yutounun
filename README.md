@@ -4,7 +4,14 @@
 </div>
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/yuto-ichihara-426800217/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://bucolic-faloodeh-8def2c.netlify.app/">
+        <img src="https://img.shields.io/badge/www.robin.com-55A4A7?style=for-the-badge"
+    </a>
+    <a href="https://devwhisperer.gatsbyjs.io/">
+        <img src="https://img.shields.io/badge/Blog-55A4A7?style=for-the-badge"
+    </a>
 </div>
 
 ### 👨‍💻: About Me:
