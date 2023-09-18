@@ -25,6 +25,7 @@
 - :writing_hand: I write a blog on [Qiita](https://qiita.com/yutoun) and [Dev Whisperer](https://devwhisperer.gatsbyjs.io/)
 - :beach_umbrella: I love traveling, playing any sports such as soccer, basketball, and hiking.
 - :envelope: How to reach me: <geek.yuto@gmail.com>
+- 🐝 Click [here](https://sophisticated-portfolio.vercel.app/home) to know better about me :D
 
 <br>
 
