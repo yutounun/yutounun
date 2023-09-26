@@ -83,6 +83,15 @@
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+
+## OS
+
+![Mac_os](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white)
+
+## Cloud
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
 ### 💐 Certifications:
 #### 🥑AWS
 ![SolutionArchitect](https://img.shields.io/badge/SolutionArchitect-%23F05033.svg?style=for-the-badge&logoColor=white)
@@ -92,3 +101,6 @@
 #### 🎃Google
 ![ProfessionalCloudArchitect](https://img.shields.io/badge/ProfessionalCloudArchitect-%23323330.svg?style=for-the-badge&&logoColor=%23F7DF1E)
 ![DegitalLeader](https://img.shields.io/badge/DegitalLeader-%23007ACC.svg?style=for-the-badge&logoColor=white)
+
+## Games:
+![Game](https://img.shields.io/badge/FIFA-B23442F?style=flat-square&logo=fifa&logoColor=white)
