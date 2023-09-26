@@ -84,11 +84,11 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-## OS
+### 🖥OS
 
 ![Mac_os](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white)
 
-## Cloud
+### ☁️Cloud
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
