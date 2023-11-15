@@ -79,6 +79,9 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+### 🤖My GPTs
+- [JS Doc Wizard](https://chat.openai.com/g/g-2giTTtuyR-js-doc-wizard)
+
 ### :art: Design:
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
