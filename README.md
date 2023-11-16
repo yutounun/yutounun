@@ -81,7 +81,7 @@
 
 ### 🤖My GPTs
 - [JS Doc Wizard](https://chat.openai.com/g/g-2giTTtuyR-js-doc-wizard)
-- [Tweet Taylor](https://chat.openai.com/g/g-30JLSo2ph-tweet-taylor)
+- [Tweet Taylor](https://chat.openai.com/g/g-pLUcaG1ZG-tweet-tailor)
 
 ### :art: Design:
 
