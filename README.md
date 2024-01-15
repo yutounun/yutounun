@@ -9,7 +9,7 @@
     <a href="https://sophisticated-portfolio-2ihfqvxz4-yutounun.vercel.app/home">
         <img src="https://img.shields.io/badge/www.robin.com-55A4A7?style=for-the-badge"
     </a>
-    <a href="[https://devwhisperer.gatsbyjs.io/](https://dev-whisperer.vercel.app/)">
+    <a href="https://robin-blog-mu.vercel.app/">
         <img src="https://img.shields.io/badge/Blog-4B3263?style=for-the-badge"
     </a>
     <a href="https://twitter.com/Robin_Ich_y">
@@ -25,7 +25,7 @@
 - 👨‍💻 a frontend / full-stack developer with 3 years of experience
 - 🗾: Originally from Japan, but ready to move anywhere 🛬
 - :seedling: Currently, I am leading a five of team members crafting new functions on UI and implement complicated APIs.
-- :writing_hand: I write a blog on [Qiita](https://qiita.com/yutoun) and [Dev Whisperer](https://devwhisperer.gatsbyjs.io/)
+- :writing_hand: I write a blog on [Qiita](https://qiita.com/yutoun) and [Dev Whisperer](https://robin-blog-mu.vercel.app/)
 - :beach_umbrella: I love traveling, playing any sports such as soccer, basketball, and hiking.
 - :envelope: How to reach me: <geek.yuto@gmail.com>
 - 🐝 Click [here](https://sophisticated-portfolio.vercel.app/home) to know better about me :D
