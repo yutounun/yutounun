@@ -1,6 +1,5 @@
 <div id="header" align="center">
     <h1>Hi there! 👋</h1>
-    <img src="robin.png">
 </div>
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/yuto-ichihara-426800217/">
