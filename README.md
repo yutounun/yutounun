@@ -5,8 +5,8 @@
     <a href="https://www.linkedin.com/in/yuto-ichihara-426800217/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://yuto-ichihara.my.canva.site/loud">
-        <img src="https://img.shields.io/badge/www.robin.com-55A4A7?style=for-the-badge"
+    <a href="https://andrew-ichihara.vercel.app/">
+        <img src="https://img.shields.io/badge/Portfolio-55A4A7?style=for-the-badge"
     </a>
     <a href="https://dev-whisperer.vercel.app/">
         <img src="https://img.shields.io/badge/Blog-4B3263?style=for-the-badge"
@@ -20,6 +20,7 @@
 </div>
 
 ### 👨‍💻: About Me:
+Email: geek.yuto@gmail.com
 
 - 👨‍💻 a frontend / full-stack developer with 3 years of experience
 - 🗾: Originally from Japan, but ready to move anywhere 🛬
