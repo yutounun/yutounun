@@ -8,7 +8,7 @@
     <a href="https://andrew-ichihara.vercel.app/">
         <img src="https://img.shields.io/badge/Portfolio-55A4A7?style=for-the-badge"
     </a>
-    <a href="https://dev-whisperer.vercel.app/">
+    <a href="https://andreww-blog.vercel.app/">
         <img src="https://img.shields.io/badge/Blog-4B3263?style=for-the-badge"
     </a>
     <a href="https://twitter.com/Robin_Ich_y">
