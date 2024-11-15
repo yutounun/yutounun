@@ -28,7 +28,7 @@
 
 ### 💻 About Me
 
-✅ Frontend Developer with 4+ years of experience specializing in TypeScript, React, and Vue.js.
+✅ Full-Stacl Developer with a focus on Frontend with 4+ years of experience specializing in TypeScript, React, and Vue.js.
 <br>
 ✅ Originally from Japan, now based in Vancouver, Canada 🇨🇦
 <br>
