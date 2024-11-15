@@ -33,8 +33,10 @@
 ✅ Originally from Japan, now based in Vancouver, Canada 🇨🇦
 <br>
 ✅ How to reach me: [geek.yuto@gmail.com](mailto:geek.yuto@gmail.com)
-
+<br>
 ✅ Click [here](https://andrew-ichihara.vercel.app/) to learn more about me!
+<br>
+✅ I'm working on [this one](https://coffices-co.vercel.app/en) privately
 
 <br>
 
