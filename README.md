@@ -14,9 +14,6 @@
     <a href="https://twitter.com/Robin_Ich_y">
         <img src="https://img.shields.io/badge/Twitter-2962FF?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href="https://coffices-co.vercel.app/">
-        <img src="https://img.shields.io/badge/Coffices-1C3263?style=for-the-badge" alt="Coffices Badge"/>
-    </a>
 </div>
 
 
