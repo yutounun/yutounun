@@ -20,15 +20,11 @@
 </div>
 
 ### 👨‍💻: About Me:
-Email: geek.yuto@gmail.com
 
-- 👨‍💻 a frontend / full-stack developer with 3 years of experience
-- 🗾: Originally from Japan, but ready to move anywhere 🛬
-- :seedling: Currently, I am leading a five of team members crafting new functions on UI and implement complicated APIs.
-- :writing_hand: I write a blog on [Qiita](https://qiita.com/yutoun) and [Dev Whisperer](https://robin-blog-mu.vercel.app/)
-- :beach_umbrella: I love traveling, playing any sports such as soccer, basketball, and hiking.
+- 👨‍💻 full-stack developer with a focus on frontend with +4 years of experience
+- 🗾 Originally from Japan, but living in Vancouver, Canada 🍁
 - :envelope: How to reach me: <geek.yuto@gmail.com>
-- 🐝 Click [here](https://sophisticated-portfolio.vercel.app/home) to know better about me :D
+- 🐝 Click [here](https://andrew-ichihara.vercel.app/) to know better about me :D
 
 <br>
 
