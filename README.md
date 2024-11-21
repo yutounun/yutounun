@@ -36,6 +36,8 @@
 <br>
 ✅ Click [here](https://andrew-ichihara.vercel.app/) to learn more about me!
 <br>
+✅ NPM Publisher: [zustand-tracker](https://www.npmjs.com/package/zustand-tracker)
+<br>
 ✅ I'm working on [this one](https://coffices-co.vercel.app/en) privately
 
 <br>
