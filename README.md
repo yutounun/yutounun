@@ -14,6 +14,9 @@
     <a href="https://twitter.com/Robin_Ich_y">
         <img src="https://img.shields.io/badge/Twitter-2962FF?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
+    <a href="https://www.npmjs.com/~yutoun?activeTab=packages">
+        <img src="https://img.shields.io/badge/npm-%23F05033.svg?style=for-the-badge&logo=npm&logoColor=white" alt="Twitter Badge"/>
+    </a>
 </div>
 
 
