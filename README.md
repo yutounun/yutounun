@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
 <h3 align="center">A passionate senior frontend developer from Japan 🥷</h3>
 
-- 💬 Ask me about **TypeScript,JavaScript, React, Vue**
+- 💬 Ask me about **HTML, CSS, TypeScript, JavaScript, React, Vue**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1OgbuVAoSCZnfXjgOjfUOyIiMVGzl0xrb/edit](https://docs.google.com/document/d/1OgbuVAoSCZnfXjgOjfUOyIiMVGzl0xrb/edit)
 
